@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="@string/nav_donation"
+        android:enabled="true"
+        android:icon="@drawable/ic_nav_donation"
+        android:id="@+id/nav_menu_comunidad"/>
+
+    <item android:title="@string/nav_beneficiary"
+        android:enabled="true"
+        android:icon="@drawable/ic_nav_beneficiary"
+        android:id="@+id/nav_afiliado"/>
+
+    <item android:title="@string/nav_sync"
+        android:icon="@drawable/ic_nav_sync"
+        android:enabled="true"
+        android:id="@+id/nav_sync_up"/>
+
+</menu>
